@@ -1,5 +1,5 @@
 ## A propos du projet
-Une bonne formation pour apprenhender LARAVEL ET LIVEWIRE
+Une bonne formation pour appréhender LARAVEL ET LIVEWIRE
 
 ## License
 
